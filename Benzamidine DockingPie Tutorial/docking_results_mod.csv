@@ -1,0 +1,14 @@
+NAME,POSE,"Affinity
+(kcal/mol)","dist from best mode
+RMSD l.b.","dist from best mode
+RMSD u.b."
+01_benzamidine-mod_Vina,1,-5.433,0.000,0.000
+01_benzamidine-mod_Vina,2,-5.334,5.298,6.556
+01_benzamidine-mod_Vina,3,-5.179,4.908,5.727
+01_benzamidine-mod_Vina,4,-5.052,5.682,6.594
+01_benzamidine-mod_Vina,5,-5.008,4.481,5.484
+01_benzamidine-mod_Vina,6,-4.974,5.201,6.292
+01_benzamidine-mod_Vina,7,-4.834,3.639,4.039
+01_benzamidine-mod_Vina,8,-4.648,2.494,2.974
+01_benzamidine-mod_Vina,9,-4.516,3.879,5.255
+01_benzamidine-mod_Vina,10,-4.304,2.241,3.072
